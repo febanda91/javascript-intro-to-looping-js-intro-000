@@ -20,11 +20,4 @@ function whileLoop(n) {
 
 
 
-function doWhileLoop(array) {
-    incrementVariable();
-do {
-    array.pop();
-} while (array.lenght > 0 && incrementVariable();
-}
- return array
-} 
+
