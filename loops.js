@@ -17,3 +17,12 @@ function whileLoop(n) {
   }
   return 'done';
 }
+
+
+function doWhileLoop(array) {
+    incrementVariable();
+do {
+    array.pop();
+} while (array.length > 0 && incrementVariable();
+ return array
+} 
